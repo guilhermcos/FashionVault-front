@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+![fashionVault1](https://github.com/guilhermcos/FashionVault-front/assets/120587680/d02b7d07-a6b4-42c7-87eb-d51f40c6e6a2)
+![fashionVault2](https://github.com/guilhermcos/FashionVault-front/assets/120587680/511b05e1-3bad-4687-9d5b-fe40fced9c2b)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Em desenvolvimento
+# Introdução
 
-## Available Scripts
+Fashion Vault é um e-commerce de roupas, onde os usuários podem se cadastrar, fazer login, adicionar produtos ao carrinho de compras, favoritar produtos, visualizar produtos por categoria e fazer compras online.
 
-In the project directory, you can run:
+O projeto Full Stack foi desenvolvido com React.js, Node.js e MongoDB.
 
-### `npm start`
+## Recursos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+O Fashion Vault oferece as seguintes funcionalidades:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Cadastro de usuários
+- Login de usuários
+- Visualização de produtos por categoria
+- Adição de produtos ao carrinho de compras
+- Visualização do carrinho de compras
+- Controle de quantidade e exclusão de produtos no carrinho
+- Favoritar produtos
+- Visualização de produtos favoritados
+- Processamento de pedidos de compra
+- Visualização de compras passadas
 
-### `npm test`
+## Tecnologias utilizadas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- React.js
+- Node.js
+- MongoDB
+- Express.js
+- Bcrypt
+- Styled-components
